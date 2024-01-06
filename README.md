@@ -2,6 +2,14 @@
 
 ![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)
 
+I've just completed a front-end coding challenge from @frontendmentor! 🎉
+
+You can see my solution here: https://www.frontendmentor.io/solutions/nice-challenge-ngLze9fanB
+
+Any suggestions on how I can improve are welcome!
+
+Link To the Live Website: <a target="_blank" href"">https://abdoelkassas.github.io/blog-preview-card-main/</a>
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
